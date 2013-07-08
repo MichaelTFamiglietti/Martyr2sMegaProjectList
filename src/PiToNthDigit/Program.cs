@@ -10,7 +10,7 @@ namespace PiToNthDigit
         {
             //If the method fails, clear console and run again
             while(!PiToNthDigit())
-                Console.Clear();            
+                Console.Clear();
             Console.ReadLine();
         }
 

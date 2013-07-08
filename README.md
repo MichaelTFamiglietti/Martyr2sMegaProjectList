@@ -7,6 +7,8 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.dr
 
 I will link to each project that I complete.
 
+Most programs are not "crash" prevented. If you want to test it and enter an "F" when it says enter a number, go ahead. [:
+
 ==============================
 
 Numbers

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiToNthDigit", "PiToNthDigi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciSequence", "FibonacciSequence\FibonacciSequence.csproj", "{50EEA09D-BE17-4A92-BE27-DCC03130603A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryToDecimalAndBackConverter", "BinaryToDecimalAndBackConverter\BinaryToDecimalAndBackConverter.csproj", "{F50814DF-865E-44A6-AE4E-C358BE953CB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -21,6 +23,10 @@ Global
 		{50EEA09D-BE17-4A92-BE27-DCC03130603A}.Debug|x86.Build.0 = Debug|x86
 		{50EEA09D-BE17-4A92-BE27-DCC03130603A}.Release|x86.ActiveCfg = Release|x86
 		{50EEA09D-BE17-4A92-BE27-DCC03130603A}.Release|x86.Build.0 = Release|x86
+		{F50814DF-865E-44A6-AE4E-C358BE953CB2}.Debug|x86.ActiveCfg = Debug|x86
+		{F50814DF-865E-44A6-AE4E-C358BE953CB2}.Debug|x86.Build.0 = Debug|x86
+		{F50814DF-865E-44A6-AE4E-C358BE953CB2}.Release|x86.ActiveCfg = Release|x86
+		{F50814DF-865E-44A6-AE4E-C358BE953CB2}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -28,5 +34,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{C05B0EA7-A9DF-45D9-821A-9DEF659F456E} = {EB53FD83-AE9E-4A91-B246-36184F60B355}
 		{50EEA09D-BE17-4A92-BE27-DCC03130603A} = {EB53FD83-AE9E-4A91-B246-36184F60B355}
+		{F50814DF-865E-44A6-AE4E-C358BE953CB2} = {EB53FD83-AE9E-4A91-B246-36184F60B355}
 	EndGlobalSection
 EndGlobal

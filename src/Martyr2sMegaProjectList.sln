@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryToDecimalAndBackConve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorization", "PrimeFactorization\PrimeFactorization.csproj", "{F5D776D4-3FF6-4B26-9E2B-C246DA8E1EAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextPrimeNumber", "NextPrimeNumber\NextPrimeNumber.csproj", "{4B1FEDC1-7CFF-4878-A7DD-308BD40B9CA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -33,6 +35,10 @@ Global
 		{F5D776D4-3FF6-4B26-9E2B-C246DA8E1EAC}.Debug|x86.Build.0 = Debug|x86
 		{F5D776D4-3FF6-4B26-9E2B-C246DA8E1EAC}.Release|x86.ActiveCfg = Release|x86
 		{F5D776D4-3FF6-4B26-9E2B-C246DA8E1EAC}.Release|x86.Build.0 = Release|x86
+		{4B1FEDC1-7CFF-4878-A7DD-308BD40B9CA0}.Debug|x86.ActiveCfg = Debug|x86
+		{4B1FEDC1-7CFF-4878-A7DD-308BD40B9CA0}.Debug|x86.Build.0 = Debug|x86
+		{4B1FEDC1-7CFF-4878-A7DD-308BD40B9CA0}.Release|x86.ActiveCfg = Release|x86
+		{4B1FEDC1-7CFF-4878-A7DD-308BD40B9CA0}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,5 +48,6 @@ Global
 		{50EEA09D-BE17-4A92-BE27-DCC03130603A} = {EB53FD83-AE9E-4A91-B246-36184F60B355}
 		{F50814DF-865E-44A6-AE4E-C358BE953CB2} = {EB53FD83-AE9E-4A91-B246-36184F60B355}
 		{F5D776D4-3FF6-4B26-9E2B-C246DA8E1EAC} = {EB53FD83-AE9E-4A91-B246-36184F60B355}
+		{4B1FEDC1-7CFF-4878-A7DD-308BD40B9CA0} = {EB53FD83-AE9E-4A91-B246-36184F60B355}
 	EndGlobalSection
 EndGlobal

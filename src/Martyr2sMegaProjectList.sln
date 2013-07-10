@@ -13,6 +13,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorization", "Prime
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextPrimeNumber", "NextPrimeNumber\NextPrimeNumber.csproj", "{4B1FEDC1-7CFF-4878-A7DD-308BD40B9CA0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CD2B0CD9-DA95-4550-9697-7B7D985C9474}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindCostOfTile", "FindCostOfTile\FindCostOfTile.csproj", "{4F726C2A-341F-400A-A877-3071C7F45E98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -39,6 +46,10 @@ Global
 		{4B1FEDC1-7CFF-4878-A7DD-308BD40B9CA0}.Debug|x86.Build.0 = Debug|x86
 		{4B1FEDC1-7CFF-4878-A7DD-308BD40B9CA0}.Release|x86.ActiveCfg = Release|x86
 		{4B1FEDC1-7CFF-4878-A7DD-308BD40B9CA0}.Release|x86.Build.0 = Release|x86
+		{4F726C2A-341F-400A-A877-3071C7F45E98}.Debug|x86.ActiveCfg = Debug|x86
+		{4F726C2A-341F-400A-A877-3071C7F45E98}.Debug|x86.Build.0 = Debug|x86
+		{4F726C2A-341F-400A-A877-3071C7F45E98}.Release|x86.ActiveCfg = Release|x86
+		{4F726C2A-341F-400A-A877-3071C7F45E98}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,5 +60,6 @@ Global
 		{F50814DF-865E-44A6-AE4E-C358BE953CB2} = {EB53FD83-AE9E-4A91-B246-36184F60B355}
 		{F5D776D4-3FF6-4B26-9E2B-C246DA8E1EAC} = {EB53FD83-AE9E-4A91-B246-36184F60B355}
 		{4B1FEDC1-7CFF-4878-A7DD-308BD40B9CA0} = {EB53FD83-AE9E-4A91-B246-36184F60B355}
+		{4F726C2A-341F-400A-A877-3071C7F45E98} = {EB53FD83-AE9E-4A91-B246-36184F60B355}
 	EndGlobalSection
 EndGlobal

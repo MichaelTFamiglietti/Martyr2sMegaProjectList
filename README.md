@@ -1,3 +1,7 @@
+I have started college and I do not have very much free time. I will still attempt to do some project every now and again.
+========
+==============================
+
 Martyr2’s Mega Project List
 ========
 
